@@ -4,7 +4,8 @@ description: Deepen executive loyalty and emotional connection through recogniti
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.3950
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - executive-recognition-letters
 - transformation
